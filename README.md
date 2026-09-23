@@ -16,7 +16,9 @@ Currently looking for opportunities as a **Junior Java Backend Developer** or **
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### Databases
@@ -25,6 +27,7 @@ Currently looking for opportunities as a **Junior Java Backend Developer** or **
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Frontend
 
@@ -33,12 +36,21 @@ Currently looking for opportunities as a **Junior Java Backend Developer** or **
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache POI](https://img.shields.io/badge/Apache_POI-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
+![jpackage](https://img.shields.io/badge/jpackage-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
@@ -53,7 +65,7 @@ The system imports Excel reports, processes the information locally and transfor
 
 **Technologies**
 
-`Java 17` `Spring Boot` `React` `SQLite` `JPA/Hibernate` `Apache POI` `Recharts` `Maven`
+`Java 17` `Spring Boot` `Spring Data JPA` `React` `Vite` `SQLite` `JPA/Hibernate` `Apache POI` `Recharts` `Maven` `jpackage`
 
 **Main features**
 
@@ -89,6 +101,8 @@ The application was taken from requirements analysis through development, testin
 - Spring Security and JWT
 - CI/CD
 - Cloud fundamentals
+- AWS
+- Azure
 - Software architecture
 
 ---
@@ -98,13 +112,20 @@ The application was taken from requirements analysis through development, testin
 ```text
 Java
 Spring Boot
+Spring Data JPA
 REST APIs
 SQL
 PostgreSQL
 JPA / Hibernate
 React
 Angular
+Vite
 Git
+GitHub
+Docker
+AWS
+Azure
+Cloud
 ```
 
 My goal is to build reliable backend systems while continuously improving my software engineering fundamentals and full stack development skills.
@@ -113,7 +134,7 @@ My goal is to build reliable backend systems while continuously improving my sof
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/julio-k%C3%B6rbes-da-silva9797/
+- LinkedIn: [https://www.linkedin.com/in/julio-k%C3%B6rbes-da-silva9797/](https://www.linkedin.com/in/julio-k%C3%B6rbes-da-silva9797/)
 - GitHub: [github.com/juliokorbes](https://github.com/juliokorbes)
 
 ---
