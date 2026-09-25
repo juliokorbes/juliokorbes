@@ -105,32 +105,6 @@ The application was taken from requirements analysis through development, testin
 - Azure
 - Software architecture
 
----
-
-## 🎯 Current Focus
-
-```text
-Java
-Spring Boot
-Spring Data JPA
-REST APIs
-SQL
-PostgreSQL
-JPA / Hibernate
-React
-Angular
-Vite
-Git
-GitHub
-Docker
-AWS
-Azure
-Cloud
-```
-
-My goal is to build reliable backend systems while continuously improving my software engineering fundamentals and full stack development skills.
-
----
 
 ## 🤝 Let's Connect
 
